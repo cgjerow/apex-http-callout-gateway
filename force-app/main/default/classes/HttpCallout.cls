@@ -1,7 +1,7 @@
 public inherited sharing class HttpCallout 
 {
-    private final HttpRequest request;
     private String baseUri = '';
+    private final HttpRequest request;
     private HttpResponse response;
     private Datetime requestTime;
     private Set<Integer> successCodes = new Set<Integer>{ 200 };
