@@ -1,5 +1,5 @@
-# apex-http-callout-gateway
-HTTP gateway / callout abstractions for Apex, with some silly examples.   
+# Apex Http Callout Gateway
+HTTP gateway / callout abstractions for Apex, with some basic examples.   
 
 
 The key classes here are `HttpCallout`, `HttpCalloutLogger`, and `HttpGateway`. They are supported by `HttpMethod`, `HttpUtility`, and `HttpException`.
